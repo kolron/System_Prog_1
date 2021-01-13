@@ -1,4 +1,4 @@
-#ifndefine MYBANK_H
+#ifndef MYBANK_H
 #define MYBANK_H
 
 void openAccount(double n);

@@ -3,7 +3,7 @@
 
 void openAccount(double n);
 
-double checkBalance(int n);
+void checkBalance(int n);
 
 void deposit(int n, double a);
 
